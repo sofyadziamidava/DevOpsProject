@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2006f8f4-b2d8-4ece-8b0f-861b13da1bb6" name="Changes" comment="" />
+    <list default="true" id="2006f8f4-b2d8-4ece-8b0f-861b13da1bb6" name="Changes" comment="changed text in index.jsp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -71,8 +74,15 @@
       <workItem from="1670427796621" duration="834000" />
       <workItem from="1670487973168" duration="3520000" />
       <workItem from="1670577335007" duration="743000" />
-      <workItem from="1670854745383" duration="322000" />
+      <workItem from="1670854745383" duration="1668000" />
     </task>
+    <task id="LOCAL−00001" summary="changed text in index.jsp">
+      <created>1670856929271</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1670856929271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +103,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="changed text in index.jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed text in index.jsp" />
   </component>
 </project>
