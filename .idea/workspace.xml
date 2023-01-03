@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2006f8f4-b2d8-4ece-8b0f-861b13da1bb6" name="Changes" comment="testing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="2006f8f4-b2d8-4ece-8b0f-861b13da1bb6" name="Changes" comment="testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
       <workItem from="1670577335007" duration="743000" />
       <workItem from="1670854745383" duration="1668000" />
       <workItem from="1672738935822" duration="233000" />
-      <workItem from="1672739221829" duration="675000" />
+      <workItem from="1672739221829" duration="1088000" />
     </task>
     <task id="LOCAL−00001" summary="changed text in index.jsp">
       <created>1670856929271</created>
@@ -97,7 +94,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1672739962262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="testing">
+      <created>1672740375611</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1672740375611</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
