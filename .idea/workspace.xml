@@ -74,7 +74,7 @@
       <workItem from="1670577335007" duration="743000" />
       <workItem from="1670854745383" duration="1668000" />
       <workItem from="1672738935822" duration="233000" />
-      <workItem from="1672739221829" duration="1088000" />
+      <workItem from="1672739221829" duration="1870000" />
     </task>
     <task id="LOCAL−00001" summary="changed text in index.jsp">
       <created>1670856929271</created>
@@ -100,7 +100,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1672740375611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="testing">
+      <created>1672740462872</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1672740462872</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
